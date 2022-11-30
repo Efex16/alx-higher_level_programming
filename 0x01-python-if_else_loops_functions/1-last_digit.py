@@ -18,4 +18,3 @@ elif i == 0:
 
 elif i < 6 and i != 0:
     print("Last digit of {} is {} and is less than 6 and not 0".format(num, i))
-Footer
